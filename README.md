@@ -1,2 +1,3 @@
-# team-6-auth-lib
+# Team-6 Authentication Library Samples
+
 Here be dragons
